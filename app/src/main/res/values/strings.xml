@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SourceViewer</string>
+    <string name="error">Błąd</string>
+    <string name="ok">Ok</string>
+    <string name="error_message">Błąd pobierania\nkod: %1$d\nwiadomość: %2$s</string>
+    <string name="url_placeholder">Adres URL</string>
+    <string name="load">Pobierz</string>
+    <string name="empty_url">Podaj adres URL</string>
+    <string name="missing_storage_permission">Aplikacja do poprawnego działania wymaga dostępu do pamięci telefonu</string>
+</resources>
